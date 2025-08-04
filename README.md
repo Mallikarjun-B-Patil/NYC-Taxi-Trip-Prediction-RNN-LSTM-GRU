@@ -37,3 +37,15 @@ To evaluate how well different deep learning models handle time series forecasti
 - Matplotlib, Seaborn
 - TensorFlow / Keras
 
+## 📌 How to Run
+Clone the repository:
+   ```bash
+   git clone https://github.com/Mallikarjun-B-Patil/NYC-Taxi-Trip-Prediction-RNN-LSTM-GRU.git
+   ```
+---
+
+## 🙋‍♂️ Author
+
+- **MALLIKARJUN**  
+  Data Science
+  [GitHub](https://github.com/Mallikarjun-B-Patil) | [LinkedIn](https://www.linkedin.com/in/mallikarjunpatil4472/)
