@@ -2,6 +2,10 @@
 
 This project focuses on predicting taxi trip patterns—specifically pickups and drop-offs—using deep learning models like RNN, LSTM, and GRU. The analysis is based on the New York City Taxi dataset and aims to compare model performance in time series forecasting.
 
+## 📷 Sample Visualization
+- Predicted vs Actual plots
+![Model_Comparison](Model_Comparison_image.png)
+
 ## 📁 Dataset
 - **Features**: Pickup datetime, dropoff datetime, trip duration, passenger count, location info, etc.
 - **Size**: Millions of records (used a sample for modeling)
@@ -26,11 +30,6 @@ To evaluate how well different deep learning models handle time series forecasti
 - LSTM generally performed better than RNN and GRU for longer sequences.
 - GRU offered a good trade-off between performance and training time.
 - Proper time-based feature engineering significantly improved results.
-
-## 📷 Sample Visualization
-*Include graphs such as:*
-- Pickup trends over time
-- Predicted vs Actual plots
 
 ## 🛠️ Tech Stack
 - Python
